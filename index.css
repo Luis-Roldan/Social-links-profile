@@ -17,12 +17,13 @@ main  {
   gap: 10px ;
 }
 
-.buttons button {
+.buttons a button {
   background-color: #707070;
   border-radius: 5px;
   padding: 10px;
   color: white;
   cursor: pointer;
+  width: 100%;
 }
 
 
